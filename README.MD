@@ -1,8 +1,9 @@
 # SSO setup
 
 Step - 1 Install `SSO plugin` on jenkins
-Note: Install this lugin with a restart.
+Note: Install this plugin with a restart or reboot, then enable the plugin.
 ![pic-1](images/pic-1.png)
+![pic-13](images/pic-13.png)
 
 step - 2 Create Jenkins as a provider, click on `miniOrange SAML SSO`
 ![pic-2](images/pic-2.png)
