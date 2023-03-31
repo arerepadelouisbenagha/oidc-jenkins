@@ -20,6 +20,7 @@ paste it on `Enter metadata url:` then click on `validate metadata url` and clic
 step 5 - go to manage jenkins and click on `miniOrange SAML SSO` click on it and test you configuration, it should be successful as shown below:
 ![pic-7](images/pic-7.png)
 ![pic-8](images/pic-8.png)
+![pic-12](images/pic-12.png)
 
 step - 6 Add users to your enterprise application , to allow users access to the jenkins SSO dashboard.
 For external users, they get invited to your azure tenant via invite.
@@ -29,3 +30,9 @@ For external users, they get invited to your azure tenant via invite.
 
 Note:
 Invited users must accept thier invitations and also complete testing to jenkins SSO dashboard.
+
+Successful login would look like this, users most lkely should have outlook emails.
+
+![pic-10](images/pic-10.png)
+![pic-11](images/pic-11.png)
+
